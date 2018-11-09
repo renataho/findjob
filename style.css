@@ -1,0 +1,102 @@
+body{
+margin: 0px;
+}
+
+#menu{
+    background-color: thistle;
+    display: flex;
+    
+}
+
+#pai{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+#logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 80px;
+}
+
+#pai li{
+    padding: 0px 80px;
+}
+
+
+.botao{
+    background-color: white;
+    width: 90px;
+    height: 40px;
+    margin: 20px;
+    border: 1px solid blueviolet;
+    color: black;
+    justify-content: space-between;
+}
+.cadastrar{
+    display: flex;
+    justify-content: flex-end;
+}
+.texto1{
+    color: black;
+    font-size: 20px;
+    height: 90px;
+    padding: 20px;
+}
+.objetivo{
+    background-color: teal;
+    height: 240px;
+    
+}
+
+#objetivo1{
+    padding: 20px;
+}
+
+#nossosobj{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+}
+
+#imagem1{
+    margin: 20px;
+}
+
+.contrata{
+    background-color: darkcyan;
+    padding: 20px;
+    margin: 30px;
+}
+
+#contratar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.imagecor{
+    height: 300px;
+    width: 500px;
+}
+#contato{
+    background-color: cadetblue;
+    padding: 20px;
+    margin-left: 1000px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.contact{
+    justify-content: right;
+    align-items: flex-end;
+}
+
+input{
+    display: block;
+    padding: 8px;
+    margin: 12px;
+}
